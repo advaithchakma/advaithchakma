@@ -2,10 +2,9 @@
 
 ## I'm Advaith Chakma.
 
-- 🔭 I’m currently working on Google.
-- 🌱 I’m currently learning Rust.
+- 🔭 I’m currently studying in BEng (Hons) in Software Engineering.
+- 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on open sourse projects.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, Go and Rust.
 - 📫 How to reach me: advaithchakma@gmail.com
 - 😄 Pronouns: Advaith
