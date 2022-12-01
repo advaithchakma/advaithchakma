@@ -3,12 +3,9 @@
 ## I'm Advaith Chakma.
 
 - 🔭 I’m currently studying in BEng (Hons) in Software Engineering.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on open sourse projects.
+- 🌱 I’m currently learning Python and Rust.
 - 💬 Ask me about Python and Rust.
 - 📫 How to reach me: advaithchakma@gmail.com
-- 😄 Pronouns: Advaith
-- ⚡ Fun fact: I Love Programming.
 
 
 <!--
