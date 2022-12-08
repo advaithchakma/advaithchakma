@@ -2,7 +2,7 @@
 
 ## I'm Advaith Chakma.
 
-- 🔭 I’m currently studying in BEng (Hons) in Software Engineering.
+- 🔭 I’m currently studying in Bachelor of Applied Information Technology.
 - 🌱 I’m currently learning Python and Rust.
 - 💬 Ask me about Python and Rust.
 - 📫 How to reach me: advaithchakma@gmail.com
